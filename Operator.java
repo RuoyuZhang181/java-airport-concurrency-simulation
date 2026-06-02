@@ -1,4 +1,4 @@
-//Ruoyu Zhang 1686756
+//Ruoyu Zhang
 
 public class Operator implements Runnable {
 
