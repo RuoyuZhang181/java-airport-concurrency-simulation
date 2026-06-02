@@ -1,14 +1,4 @@
-// SWEN90004 2026 Assignment 1a
-//
-// The Main class controls the airport simulation. This file will not run until you have 
-// implemented the Airport, Aircraft and Operator classes. As noted in the specification, 
-// it may be simpler to start by just implementing the Airport and Aircraft classes first, 
-// in which case you should temporarily comment out the line that starts the Operator thread.
-//
-// Nic Geard - ngeard@unimelb.edu.au
-// 6 March 2026
-
-//Ruoyu Zhang 1686756
+//Ruoyu Zhang
 
 public class Main {
 
