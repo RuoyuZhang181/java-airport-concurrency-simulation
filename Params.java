@@ -1,11 +1,4 @@
-// SWEN90004 2026 Assignment 1a
-//
-// The Params class provides system and timing parameters and utility functions
-//
-// Nic Geard - ngeard@unimelb.edu.au
-// 6 March 2026
-
-//Ruoyu Zhang 1686756
+//Ruoyu Zhang
 
 import java.util.Random;
 
